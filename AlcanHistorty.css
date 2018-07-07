@@ -10,6 +10,7 @@ p {
     background-color: darkred;
     margin-left: 400px;
     margin-right: 400px;
+    opacity: 0.9;
 }
 .link {
     background-color: black;
